@@ -32,20 +32,20 @@ Zusätzlich zur Darstellung von Unterschieden bezüglich der
 ÖPNV-Reisegeschwindigkeit, haben Nutzer*innen im ÖPNV-Dashboard die Möglichkeit alle Ebenen der ÖPNV-Infrastruktur einer Stadt sichtbar zu machen. Dafür stehen Schaltflächen über die beispielsweise U-Bahn-Stationen und Linien auf der Karte eingeblendet werden können. Unterschiede in der Reisegeschwindigkeit können so unmittelbar mit Lücken in der ÖPNV-Infrastruktur in Verbindung gebracht werden. So wird beispielsweise deutlich, dass sich die Nähe zu einer S-Bahnstation wesentlich stärker auf die Anbindungsqualität eines Ortes auswirkt als eine Bushaltestelle.
 Mithilfe eines Schiebereglers können Nutzer*innen sich zudem nur Gebiete mit einer besonders hoher oder niedriger ÖPNV-Erreichbarkeit anzeigen lassen. Mithilfe des Schiebereglers können somit bestimmte Gebiete stärker in den Fokus gerückt werden um beispielsweise Gemeinsamkeiten dieser Orte zu identifizieren.
 
-<video src="/assets/images/project_images/open-public-transport/01-dashboard.mov" autoplay controls muted loop></video>
+<video src="/assets/images/project_images/open-public-transport/01-dashboard.mp4" autoplay controls muted loop></video>
 
 ### Ortsvergleich
 
 Der Ortsvergleich ermöglicht es Nutzer*innen das ÖPNV-Angebot an zwei frei wählbaren Orten städteübergreifend zu vergleichen. So könnte beispielsweise das ÖPNV-Angebot am Hauptgebäude der HU Berlin mit dem ÖPNV-Angebot am Hauptgebäude der Universität Hamburg verglichen werden.
 Für beide Orte wird ein übersichtliches ÖPNV Profil mit der Anzahl der verfügbaren Haltestellen erstellt. Zudem wird das verfügbare ÖPNV Angebot mithilfe einer Karte sichtbar gemacht. Auf Basis der dargestellten Daten wird ein ÖPNV-Index berechnet, der anzeigt, wie gut das ÖPNV-Angebot im Vergleich zu ähnlichen Orten ist. 
 
-<video src="/assets/images/project_images/open-public-transport/02-comparison.mov" autoplay controls muted loop></video>
+<video src="/assets/images/project_images/open-public-transport/02-comparison.mp4" autoplay controls muted loop></video>
 
 ### ÖPNV-Leaderboard
 
 Das ÖPNV-Leaderboard bietet eine tabellarische Übersicht über das ÖPNV-Angebot aller Städte, die bereits für Open Public Transport aufbereitet wurden. Anhand von Schlüsselindikatoren wie Haltestellen und Abfahrten je 1000 Einwohner und km² kann das ÖPNV-Angebot in diesen Städten unmittelbar miteinander verglichen werden. Perspektivisch wird es möglich sein, mithilfe des ÖPNV-Leaderboards auch Veränderungen des ÖPNV-Angebots im Vergleich zum Vorjahr sichtbar zu machen. Auf diese Weise bietet das ÖPNV-Leaderboard eine Möglichkeit um Fortschritte, die im Rahmen der Verkehrswende gemacht werden, transparent darzustellen.
 
-<video src="/assets/images/project_images/open-public-transport/03-leaderboard.mov" autoplay controls muted loop></video>
+<video src="/assets/images/project_images/open-public-transport/03-leaderboard.mp4" autoplay controls muted loop></video>
 
 ### Wie geht es weiter?
 
